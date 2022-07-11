@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    height: 180px;
+}
+.row h1{
+    color: rgb(0 0 0 / 20%);
+}
+    
+.card.a{
+    background-color: #adb5bd59;
+}
+.btn.bx{
+    font-size: 14px;
+}
+    
+   
